@@ -43,3 +43,17 @@ var start2 = now()
 console.log(fib3(40));
 var end2 = now()
 console.log(`Time Elapsed ${(end2-start2).toFixed(3)/1000} seconds.`)
+
+/*
+    Final Output:-
+
+    102334155
+    Time Elapsed 0.8790359999999999 seconds.
+    FIB2
+    102334155
+    Time Elapsed 0.000201 seconds.
+    FIB3
+    102334155
+    Time Elapsed 0.00023899999999999998 seconds.
+    
+*/

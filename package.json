@@ -1,0 +1,14 @@
+{
+  "name": "dp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fibonacci.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Meegada Mahesh",
+  "license": "ISC",
+  "dependencies": {
+    "performance-now": "^2.1.0"
+  }
+}
